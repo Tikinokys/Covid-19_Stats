@@ -11,7 +11,7 @@ Telegram-бот размещен на платформе [Heroku](https://www.he
 ---------
 Имя Telegram-бота:
 ```
-Covid-19_Stats
+@Covid19AllStats_bot
 ```
 Команды:
 ```
