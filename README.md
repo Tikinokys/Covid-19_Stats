@@ -42,7 +42,7 @@ $ pip install -r requirements.txt
 $ pip install virtualenv
 $ virtualenv my_env
 $ cd my_env/Scripts
-& activate.bat
+$ activate.bat
 ```
 6) Запустите локально для установки конфигурационных данных (в корневой папке где лежит main.py)
 ```
