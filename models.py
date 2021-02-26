@@ -40,7 +40,7 @@ class Countries(Enum):
     RUSSIA = Country('RUSSIA', 'Russia', '🇷🇺', 'Russia')
 
     FRANCE = Country('FRANCE', 'France', '🇫🇷', 'France')
-    TURKEY = Country('TURKEY', 'Turkey', '🇫🇷', 'Turkey')
+    TURKEY = Country('TURKEY', 'Turkey', '🇹🇷', 'Turkey')
 
     BRAZIL = Country('BRAZIL', 'Brazil', '🇧🇷', 'Brazil')
     CANADA = Country('CANADA', 'Canada', '🇨🇦', 'Canada')
